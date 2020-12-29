@@ -1,0 +1,21 @@
+body { 
+    background-image: url("fog.gif");
+    background-position: center center; 
+    background-size: 100% 100%; 
+}
+title{
+    color: azure;
+    font-size: 40px;
+}
+p{
+    color: cadetblue;
+    font-size: 20px;
+}
+li{
+    color: cornsilk;
+    font-size: 18px;
+}
+h3{
+    color: cadetblue;
+    font-size: 20px;
+}
