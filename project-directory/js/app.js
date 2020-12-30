@@ -49,3 +49,41 @@ if (healthypers.toLowerCase() === 'yes') {
     //console.log('I wish it is no but try again');
     alert('I wish it is no but try again');
 }
+
+var counter 
+counter++
+for (var i=0; i<4; i++) {
+  var myage =prompt('guess how old am I?')
+  var num1=parseInt(myage)
+  console.log(num1);
+  if (num1 === 28) {
+    alert('thats correct well done')
+  counter++
+  break ;
+  } else if (num1 > 28) {
+    alert('you wrong too high')
+  }
+  else {
+   alert('u r wrong too low')
+  }
+
+}
+var colorarray=['red','black','yallow','blue','brown']
+var counter
+counter++
+for (var y=0; y<6; y++) {
+
+  var colorname=prompt('can u guess my color'+colo)
+for (var index=0; index<colorarray.length; index++)
+if (colorname===colorarray[index]) {
+  alert('that is correct')
+counter++
+break ;
+} else {
+  alert('keep trying')
+}
+  for (var i=0; i<4 i++ ){
+  if (colorarray[i]==='blue'){
+    alert(colorarray[i])
+}
+}
