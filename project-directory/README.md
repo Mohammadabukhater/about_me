@@ -13,6 +13,7 @@
 3. you have to make your code in same line.
 4. add some heading to important information not p tag.
 
+
 ### css
 1. you have remove the image from css folder in css folder you can only put css file.
 2. you have top use reset css to delete all default style and re write the new style you want to make it in your html tag.
